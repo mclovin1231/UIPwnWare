@@ -517,7 +517,7 @@ end)
 
 local Tab7 = Window:Tab("Credits",false)
 
-Tab7:Label("kermetthefrog#2591,rsalinq#4098")
+Tab7:Label("Skidded by pwn#0606")
 
 local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/vsVecTqs"))()
 Aiming.TeamCheck(false)
